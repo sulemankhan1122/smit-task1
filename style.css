@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+}
+
+  #clickInfo{
+    text-align: center;
+    font-size:2rem;
+}
